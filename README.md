@@ -16,10 +16,10 @@ Student представляет модель данных студента, к�
 
 ### Технологии
 
-Java
-Spring Framework (Spring Boot, Spring MVC, Spring Data JPA)
-Lombok
-PostgreSQL
+- Java
+- Spring Framework (Spring Boot, Spring MVC, Spring Data JPA)
+- Lombok
+- PostgreSQL
 
 ### Использование API
 
