@@ -1,0 +1,12 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://dumbo.db.elephantsql.com:5432/ngjpvgqu
+    username: ngjpvgqu
+    password: 0I0pbgYbd3uX8W5au6I3OoSGHdOP8Csb
+    driver-class-name: org.postgresql.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
